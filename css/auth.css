@@ -105,7 +105,7 @@ body {
 }
 
 .auth-submit-button:disabled {
-  background-color: var(--color-secondary-200);
+  background-color: var(--color-secondary-400);
   cursor: not-allowed;
 }
 
