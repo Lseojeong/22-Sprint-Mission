@@ -66,7 +66,10 @@ export default defineConfig([
           },
         },
       ],
-      'import/no-unresolved': ['error', { ignore: ['\\.svg\\?url$'] }],
+      'import/no-unresolved': [
+        'error',
+        { ignore: ['\\.svg\\?url$', '\\.svg\\?react$'] },
+      ],
       curly: ['error'],
       'no-var': 'error',
       'no-console': 'warn',
