@@ -1,0 +1,165 @@
+@theme {
+  --font-sans: 'Pretendard Variable', sans-serif;
+}
+
+@utility text-3xl-bold {
+  font-size: 2rem;
+  line-height: 42px;
+  font-weight: 700;
+}
+
+@utility text-3xl-semibold {
+  font-size: 2rem;
+  line-height: 42px;
+  font-weight: 600;
+}
+
+@utility text-2xl-bold {
+  font-size: 1.5rem;
+  line-height: 32px;
+  font-weight: 700;
+}
+
+@utility text-2xl-semibold {
+  font-size: 1.5rem;
+  line-height: 32px;
+  font-weight: 600;
+}
+
+@utility text-2xl-medium {
+  font-size: 1.5rem;
+  line-height: 32px;
+  font-weight: 500;
+}
+
+@utility text-2xl-regular {
+  font-size: 1.5rem;
+  line-height: 32px;
+  font-weight: 400;
+}
+
+@utility text-xl-bold {
+  font-size: 1.25rem;
+  line-height: 32px;
+  font-weight: 700;
+}
+
+@utility text-xl-semibold {
+  font-size: 1.25rem;
+  line-height: 32px;
+  font-weight: 600;
+}
+
+@utility text-xl-medium {
+  font-size: 1.25rem;
+  line-height: 32px;
+  font-weight: 500;
+}
+
+@utility text-xl-regular {
+  font-size: 1.25rem;
+  line-height: 32px;
+  font-weight: 400;
+}
+
+@utility text-2lg-bold {
+  font-size: 1.125rem;
+  line-height: 26px;
+  font-weight: 700;
+}
+
+@utility text-2lg-semibold {
+  font-size: 1.125rem;
+  line-height: 26px;
+  font-weight: 600;
+}
+
+@utility text-2lg-medium {
+  font-size: 1.125rem;
+  line-height: 26px;
+  font-weight: 500;
+}
+
+@utility text-2lg-regular {
+  font-size: 1.125rem;
+  line-height: 26px;
+  font-weight: 400;
+}
+
+@utility text-lg-bold {
+  font-size: 1rem;
+  line-height: 26px;
+  font-weight: 700;
+}
+
+@utility text-lg-semibold {
+  font-size: 1rem;
+  line-height: 26px;
+  font-weight: 600;
+}
+
+@utility text-lg-medium {
+  font-size: 1rem;
+  line-height: 26px;
+  font-weight: 500;
+}
+
+@utility text-lg-regular {
+  font-size: 1rem;
+  line-height: 26px;
+  font-weight: 400;
+}
+
+@utility text-md-bold {
+  font-size: 0.875rem;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+@utility text-md-semibold {
+  font-size: 0.875rem;
+  line-height: 24px;
+  font-weight: 600;
+}
+
+@utility text-md-medium {
+  font-size: 0.875rem;
+  line-height: 24px;
+  font-weight: 500;
+}
+
+@utility text-md-regular {
+  font-size: 0.875rem;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+@utility text-sm-semibold {
+  font-size: 0.8125rem;
+  line-height: 22px;
+  font-weight: 600;
+}
+
+@utility text-sm-medium {
+  font-size: 0.8125rem;
+  line-height: 22px;
+  font-weight: 500;
+}
+
+@utility text-xs-semibold {
+  font-size: 0.75rem;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+@utility text-xs-medium {
+  font-size: 0.75rem;
+  line-height: 18px;
+  font-weight: 500;
+}
+
+@utility text-xs-regular {
+  font-size: 0.75rem;
+  line-height: 18px;
+  font-weight: 400;
+}
